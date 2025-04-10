@@ -21,11 +21,6 @@ Bugly is a lightweight live debugger for Python that tracks variable changes, fu
    cd bugly
    ```
 
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ## Usage
 
 1. Import `var_ins`, `func_ins`, and `live_trace` from bugly.py in your Python script:
